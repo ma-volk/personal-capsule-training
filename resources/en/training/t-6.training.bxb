@@ -1,0 +1,4 @@
+train (t-6gbiqc1gsjojqjh14qfqm1x3n) {
+  utterance ("[g:ShowMenu] What do you have (to eat)[v:AskForMenu]")
+  last-modified (1610728384386)
+}

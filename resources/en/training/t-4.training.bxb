@@ -1,0 +1,5 @@
+train (t-4eszl6z6k3qv07hwe4mus8zqs) {
+  utterance ("[g:ShowMenu] Could I have (the menu)[v:AskForMenu] please")
+  plan (Y2BmUC/ISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELALJT80p8U/NKGVTwKQzOyC8Hq1LDp8qxONstvwisjomBEYgZgCQjAwhA+QA=)
+  last-modified (1610728246633)
+}

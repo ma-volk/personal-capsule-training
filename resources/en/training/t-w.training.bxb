@@ -1,0 +1,8 @@
+train (t-wn6f1c6al27rhdbegkq7lmdr2) {
+  utterance ("[g:ShowMenu] Could I see (the menu)[v:AskForMenu]")
+  last-modified (1610728273009)
+}
+train (t-wkwfeq971421x9z8ywqdlb3lz) {
+  utterance ("[g:ShowMenu] Can I see (the menu)[v:AskForMenu] please")
+  last-modified (1610728434889)
+}

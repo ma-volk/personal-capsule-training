@@ -1,0 +1,11 @@
+action (ShowMenu) {
+  type(Search)
+  description (Bixby's showing the menu upon being asked for it)
+  collect {
+    input (askForMenu) {
+      type (AskForMenu)
+      min (Optional) max (One)
+    }
+  }
+  output (PresentMenu)
+}

@@ -1,0 +1,13 @@
+vocab (MakeOrder)
+{
+  "margarita" { "margarita" "without anything" "basic" }
+  "tuna" { "tuna" "tuna fish" "fish" }
+  "4 cheese" { "4 cheese" "four cheese" "with cheese" }
+  "pepperoni" { "pepperoni" "spicey" }
+  "veggie lover" { "veggie lover" "vegetarian" "just with veggies" }
+  "salami" { "salami" }
+  "ham & pineapple" { "ham & pineapple" "ham and pineapple" "pineapple and ham" "hawaii" }
+  "calzone" { "calzone" "surprise" "wrapped" }
+  "chicken" { "chicken"}
+  "fries" { "fries" }
+}

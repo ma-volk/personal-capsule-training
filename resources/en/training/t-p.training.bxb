@@ -1,0 +1,5 @@
+train (t-pauny079gxnip3zjnhi170umb) {
+  utterance ("[g:ReceivingOrder] make that a (veggie lover)[v:MakeOrder:'veggie lover']")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1611043004124)
+}

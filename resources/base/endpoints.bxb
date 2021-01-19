@@ -5,7 +5,16 @@ endpoints {
       accepted-inputs (askForMenu)
       local-endpoint (ShowMenu.js)
     }
+  
+    action-endpoint (ReceivingOrder) {
+      accepted-inputs (makeOrder)
+      local-endpoint (ReceivingOrder.js)
+    }
 
+     action-endpoint (EndOfOrder) {
+      accepted-inputs (endOfOrders)
+      local-endpoint (EndOfOrders.js)
+    }
     // action-endpoint (__ACTION_NAME__) {
     //   accepted-inputs (__LIST_OF_ACTION_INPUTS__)
     //   remote-endpoint (__ENDPOINT_URL__) {

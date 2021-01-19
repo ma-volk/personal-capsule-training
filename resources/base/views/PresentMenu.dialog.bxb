@@ -1,0 +1,8 @@
+dialog (Result) {
+  match: PresentMenu(this)
+  choose (Random) {
+    template("Sure, here is our menu. Would you like to order something?")
+    template("Here is our menu. Do you see something that you'd like?")
+    template("There you go, our menu. Can I take your order?")
+  }
+}

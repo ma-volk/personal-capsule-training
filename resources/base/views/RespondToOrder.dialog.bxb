@@ -1,0 +1,16 @@
+dialog (Result) {
+  match: RespondToOrder(this)
+
+
+  // if ((value.this === 'fries') {
+  //   template("Oh, I'm afraid our frier is broken. Can I get you anything?")
+  //   }
+
+  // else {
+    choose (Random) {
+    template("Sure, #{value(this)} coming up! Anything else that you want?")
+    template("Got it, #{value(this)}! Would you like to order anything else?")
+    template("Alright, #{value(this)} as good as in the oven! Would you like to order anything else?")
+    }
+  // }
+}

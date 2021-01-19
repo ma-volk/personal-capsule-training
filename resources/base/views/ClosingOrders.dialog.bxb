@@ -1,0 +1,13 @@
+dialog (Result) {
+  match: ClosingOrders(this)
+
+  if (this == true) {
+  choose (Random) {
+    template("Okay, thank you for your order!")
+    template("Alright, thank you for your order!")
+    }
+  }
+  else {
+    template ("Alright, what else can I get you?")
+  }
+}

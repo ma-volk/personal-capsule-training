@@ -1,0 +1,5 @@
+train (t-usftd8fycwlns3j9spssytnl2) {
+  utterance ("[g:ReceivingOrder] One pizza (tuna)[v:MakeOrder:tuna] please")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1610970386746)
+}

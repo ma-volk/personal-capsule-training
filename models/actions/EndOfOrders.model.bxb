@@ -1,0 +1,11 @@
+action (EndOfOrder) {
+  type (Search)
+  description (Bixby understanding whether the ordering process is over)
+  collect {
+    input (endOfOrders) {
+      type (EndOfOrders)
+      min (Optional) max (One)
+    }
+  }
+  output (ClosingOrders)
+}

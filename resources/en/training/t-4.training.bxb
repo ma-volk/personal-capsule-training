@@ -3,3 +3,8 @@ train (t-4eszl6z6k3qv07hwe4mus8zqs) {
   plan (Y2BmUC/ISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELALJT80p8U/NKGVTwKQzOyC8Hq1LDp8qxONstvwisjomBEYgZgCQjAwhA+QA=)
   last-modified (1610728246633)
 }
+train (t-40ckbdz9x8vhp642qztqagmjt) {
+  utterance ("[g:ReceivingOrder] Could you bring me a (4 cheese)[v:MakeOrder:'4 cheese']")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1610973329984)
+}

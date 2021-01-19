@@ -1,0 +1,5 @@
+train (t-j3b5c1d11jglg01gpg6wfkqu0) {
+  utterance ("[g:MakeOrder] Please get me a pizza (pepperoni)[v:MakeOrder:pepperoni]")
+  plan (Y2BiUC3ISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9HzTcxO9S9KSS0iVhkjEDIwcAIxExAD2QA=)
+  last-modified (1610965035879)
+}

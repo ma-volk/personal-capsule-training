@@ -1,3 +1,18 @@
-text (MakeOrder) {
+enum (MakeOrder) {
   description (what a user is ordering in our Bixby restaurant)
+
+  symbol (margarita)
+  symbol (tuna)
+  symbol (4 cheese)
+  symbol (pepperoni)
+  symbol (veggie lover)
+  symbol (salami)
+  symbol (ham & pineapple)
+  symbol (calzone)
+  symbol (chicken)
+  symbol (fries)
+
+  features{
+    transient
+  }
 }

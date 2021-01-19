@@ -1,0 +1,4 @@
+train (t-8mf351nm6yc18j8ruid5jbyxl) {
+  utterance ("[g:ShowMenu] I want to see the (menu)[v:AskForMenu]")
+  last-modified (1611042736204)
+}

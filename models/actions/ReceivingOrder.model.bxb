@@ -1,0 +1,11 @@
+action (ReceivingOrder) {
+  type(Search)
+  description (Bixby receiving an order and telling if all is fine or not (i.e. out of stock))
+  collect {
+    input (makeOrder) {
+      type (MakeOrder)
+      min (Required) max (One)
+    }
+  }
+  output (RespondToOrder)
+}

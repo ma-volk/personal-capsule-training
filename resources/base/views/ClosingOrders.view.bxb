@@ -1,0 +1,31 @@
+result-view{
+  match: ClosingOrders(this)
+  
+  render{
+    if (this == true) {
+    layout{
+      section{
+        content{
+          image{
+              url(images/Thank_You.jpg)
+              aspect-ratio(Three_Four)
+              }
+            }
+          }
+        }
+      }
+    else {
+    layout{
+      section{
+        content{
+          image{
+              url(images/Pizza_menu.jpeg)
+              aspect-ratio(Three_Four)
+              }
+            }
+          }
+        }
+      }
+    }
+}
+

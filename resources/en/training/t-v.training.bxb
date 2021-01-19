@@ -1,0 +1,10 @@
+train (t-v8nmdt3ij4nw5jz0j1nh2a6gv) {
+  utterance ("[g:ReceivingOrder] get me a (margarita)[v:MakeOrder:margarita]")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1611042973103)
+}
+train (t-vrz36iyqgava0ytssl51n58vu) {
+  utterance ("[g:ReceivingOrder] make that a (tuna)[v:MakeOrder:tuna] pizza")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1611043138240)
+}

@@ -1,0 +1,15 @@
+train (t-1qjz6vrr7eoueyco1gxep95jh) {
+  utterance ("[g:EndOfOrder:continue:ReceivingOrder,v:EndOfOrders:true] no that's all")
+  plan (Y2Bm0CzISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9FzzskvzsxL9y9KSS0qZlDDp9Q1L8U/DayQQZ04dcUMTAyMQMwAJBkZQADKBwA=)
+  last-modified (1610971676857)
+}
+train (t-1v4xgk6gzngrrt28abdqrhqla) {
+  utterance ("[g:ShowMenu] (menu)[v:AskForMenu] please")
+  plan (Y2BmUC/ISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELALJT80p8U/NKGVTwKQzOyC8Hq1LDp8qxONstvwisjomBEYgZgCQjAwhA+QA=)
+  last-modified (1611042630635)
+}
+train (t-13ajkbg2z8d57dso9w288vh2i) {
+  utterance ("[g:ShowMenu] Do you have (a menu)[v:AskForMenu] for me")
+  plan (Y2BmUC/ISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELALJT80p8U/NKGVTwKQzOyC8Hq1LDp8qxONstvwisjomBEYgZgCQjAwhA+QA=)
+  last-modified (1611042699177)
+}

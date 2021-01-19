@@ -1,0 +1,10 @@
+train (t-mawynmqu5ebrrje6del5rtqsc) {
+  utterance ("[g:ReceivingOrder] (Calzone)[v:MakeOrder:calzone] please")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1610970354361)
+}
+train (t-mwceqv8vjphghcqxxn95lg2kq) {
+  utterance ([g:EndOfOrder:continue:ReceivingOrder,v:EndOfOrders:false] yes please)
+  plan (Y2Bm0CzISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9FzzskvzsxL9y9KSS0qZlDDp9Q1L8U/DayQQZ04dcUMTAyMQMwAJBkZQADKBwA=)
+  last-modified (1610971629230)
+}

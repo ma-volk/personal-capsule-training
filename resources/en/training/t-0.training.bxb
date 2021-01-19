@@ -1,0 +1,5 @@
+train (t-0kj90gecsxyc74muvgxmy5x2y) {
+  utterance ("[g:ReceivingOrder] I would like to order a pizza (calzone)[v:MakeOrder:calzone]")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1610964947633)
+}

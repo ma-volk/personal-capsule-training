@@ -1,0 +1,5 @@
+train (t-ox3qq2owj5sgxw828zoafl155) {
+  utterance ("[g:ShowMenu] what's on the (menu)[v:AskForMenu]")
+  plan (Y2BmUC/ISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELALJT80p8U/NKGVTwKQzOyC8Hq1LDp8qxONstvwisjomBEYgZgCQjAwhA+QA=)
+  last-modified (1611042665788)
+}

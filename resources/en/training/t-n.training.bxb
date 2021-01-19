@@ -1,0 +1,10 @@
+train (t-n37byb1lsjf4cf1j3i7eyahqe) {
+  utterance ("[g:ReceivingOrder] Could I please have a (margarita)[v:MakeOrder:margarita]")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1610964801453)
+}
+train (t-n4mce79hiraqt8ifgza5noqoj) {
+  utterance ([g:EndOfOrder:continue:ReceivingOrder,v:EndOfOrders:true] no)
+  plan (Y2Bm0CzISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9FzzskvzsxL9y9KSS0qZlDDp9Q1L8U/DayQQZ04dcUMTAyMQMwAJBkZQADKBwA=)
+  last-modified (1610971605121)
+}

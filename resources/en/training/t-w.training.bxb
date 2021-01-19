@@ -6,3 +6,8 @@ train (t-wkwfeq971421x9z8ywqdlb3lz) {
   utterance ("[g:ShowMenu] Can I see (the menu)[v:AskForMenu] please")
   last-modified (1610728434889)
 }
+train (t-w298i7da5wttyxram0rtoe3eo) {
+  utterance ("[g:ReceivingOrder] I want to order a pizza (tuna)[v:MakeOrder:tuna]")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1610969999268)
+}

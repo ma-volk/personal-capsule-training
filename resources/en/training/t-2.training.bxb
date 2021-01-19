@@ -1,0 +1,15 @@
+train (t-2nn79fka6uq0mfcx2eydpxurj) {
+  utterance ("[g:ReceivingOrder] I would like to have a (chicken)[v:MakeOrder:chicken] pizza")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1610964993247)
+}
+train (t-221a4lvc3y8oak31tdj0z78u1) {
+  utterance ("[g:ReceivingOrder] I want a (veggie lover)[v:MakeOrder:'veggie lover'] pizza please")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1610973487604)
+}
+train (t-2l45m6zm4ipipv41l6ygxhpnv) {
+  utterance ("[g:ReceivingOrder] bring me a pizza (pepperoni)[v:MakeOrder:pepperoni]")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1611043075171)
+}

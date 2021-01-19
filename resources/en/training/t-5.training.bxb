@@ -1,0 +1,9 @@
+train (t-5rqrtj80esrh4dxpoq5zku64h) {
+  utterance ("[g:ReceivingOrder] Please bring me a pizza with (chicken)[v:MakeOrder:chicken]")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1610970166987)
+}
+train (t-5hwdclz5s41qteeq6pj75kdpy) {
+  utterance ("[g:ReceivingOrder] A (Veggie lover)[v:MakeOrder:'veggie lover'] pizza please")
+  last-modified (1610973376461)
+}

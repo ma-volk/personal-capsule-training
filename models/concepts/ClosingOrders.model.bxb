@@ -1,0 +1,3 @@
+boolean (ClosingOrders) {
+  description (End of the ordering process is either true or false)
+}

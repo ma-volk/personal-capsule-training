@@ -1,0 +1,16 @@
+result-view{
+  match: PresentMenu(this)
+  
+  render{
+    layout{
+      section{
+        content{
+          image{
+            url(images/Pizza_menu.jpeg)
+            aspect-ratio(Three_Four)
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+train (t-k2v60fy1yi6qg8pwyj2kumx4q) {
+  utterance ("[g:ReceivingOrder] I'd like a pizza (4 cheese)[v:MakeOrder:'4 cheese']")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1610973444123)
+}
+train (t-ksjdm9511a77kc190bdwndchz) {
+  utterance ("[g:ShowMenu] I want a (menu)[v:AskForMenu]")
+  plan (Y2BmUC/ISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELALJT80p8U/NKGVTwKQzOyC8Hq1LDp8qxONstvwisjomBEYgZgCQjAwhA+QA=)
+  last-modified (1611043198168)
+}

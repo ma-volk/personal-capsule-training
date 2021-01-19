@@ -1,0 +1,9 @@
+train (t-qduwahkmjolm0i6197rs2f7z1) {
+  utterance ("[g:ReceivingOrder] I would like to have a pizza (salami)[v:MakeOrder:salami]")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1610964857772)
+}
+train (t-q4jt7mpwi2ijl5duwjxc63180) {
+  utterance ("[g:ReceivingOrder] (Salami)[v:MakeOrder:salami] pizza please")
+  last-modified (1610970473206)
+}

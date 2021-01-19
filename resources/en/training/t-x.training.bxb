@@ -1,0 +1,5 @@
+train (t-xd3evr5ufg6aiccoxoeplalyu) {
+  utterance ("[g:ReceivingOrder] Pizza (hawaii)[v:MakeOrder:'ham & pineapple']")
+  plan (Y2Bm0CrISaxML8ovzUvRS8qsSKqML0otLkksLUrMK9ELSi0uyM9LCcn3L0pJLSKkNjk1sywzLx2iVhWfWt/E7FSIMiYGRiBmAJKMDCAA5QMA)
+  last-modified (1610970440871)
+}

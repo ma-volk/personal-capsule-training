@@ -1,0 +1,3 @@
+boolean (EndOfOrders) {
+  description (The user saying whether they want or do not want another order)
+}
